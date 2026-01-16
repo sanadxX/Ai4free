@@ -12,3 +12,4 @@ termcolor
 regex
 cloudscraper
 tls_client
+pydantic
